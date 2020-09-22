@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: Hash-Table
+Version: 0.1
+Summary: This Module help to make a hash table
+Home-page: UNKNOWN
+Author: Vishal Pandey
+Author-email: vp85623@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0
