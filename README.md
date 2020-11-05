@@ -51,3 +51,4 @@ print(b)
 Output
 [30, 44, '', '', '', '', '', '', '', '']# hash_table
 # hash_table
+# hash_table
