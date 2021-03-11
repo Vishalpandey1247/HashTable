@@ -2,7 +2,7 @@ class Hash():
    def __init__(self,key):
        self._elements=[""]
        for i in range(key-1):
-           self._elements.append('')
+           self._elements.append(None)
    def add(self,key):
        if str(key).isdigit()==True:
           pos=int(int(key)%len(self._elements))
@@ -36,7 +36,7 @@ class Hash():
        n=[]
        for k in self._elements:
            n.append(k)
-       return n
+       print(n)
    def rehash(self,c):
        for key in self._elements:
            self._elements[self._elements.index(key)]=''
